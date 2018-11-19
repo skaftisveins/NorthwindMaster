@@ -1,0 +1,14 @@
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.exe.config
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.exe
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.pdb
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.csprojAssemblyReference.cache
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.csproj.CoreCompileInputs.cache
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.exe
+\\mordor\nemendur$\ss1.h18\Downloads\Stofa3\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.pdb
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.exe.config
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.exe
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\bin\Debug\NorthwindMaster.pdb
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.csprojAssemblyReference.cache
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.csproj.CoreCompileInputs.cache
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.exe
+C:\Users\skaftisveins\Documents\ntv\csharp\NorthwindMaster\NorthwindMaster\obj\Debug\NorthwindMaster.pdb
